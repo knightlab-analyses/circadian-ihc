@@ -14,4 +14,4 @@ DOI link:
 
 EBI accession for microbiome: ERP110592
 
-MassIVE ID for metabolome is MSV000084847
+MassIVE ID for metabolome: MSV000084847
