@@ -1,0 +1,12 @@
+CycID	BH.Q	ADJ.P	PER	LAG	AMP
+k__Archaea;p__Crenarchaeota	1	1	0	0	0
+k__Bacteria;__	0.106913840240471	0.0291583200655831	24	10	0.00478770210535835
+k__Bacteria;p__Actinobacteria	0.434779755581274	0.158101729302281	24	10	0.00170884162356975
+k__Bacteria;p__Bacteroidetes	0.685816934418945	0.31173497019043	24	0	0.0329541221636969
+k__Bacteria;p__Chloroflexi	1	1	0	0	0
+k__Bacteria;p__Cyanobacteria	1	1	0	0	0
+k__Bacteria;p__Firmicutes	9.33341444696559e-05	8.48492222451417e-06	24	8	0.131993266057191
+k__Bacteria;p__Proteobacteria	1	1	20	14	5.89019948728394e-05
+k__Bacteria;p__Tenericutes	1	1	24	6	5.8924975843228e-05
+k__Bacteria;p__Verrucomicrobia	0.00477827975049949	0.000868778136454452	24	18	0.146783582779159
+k__Bacteria;p__[Thermi]	1	1	0	0	0
