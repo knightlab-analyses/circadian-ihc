@@ -10,7 +10,7 @@
 
 DOI link:
 
-# Original Data Availability
+### Original Data Availability
 
 EBI accession for microbiome: ERP110592
 
