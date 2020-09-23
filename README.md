@@ -9,3 +9,9 @@
 **Conclusions:** IHC significantly changes the circadian dynamics of the fecal microbiome and metabolome, increasing members and metabolites that are pro-inflammatory and pro-atherogenic, while decreasing protective ones. 
 
 DOI link:
+
+# Original Data Availability
+
+EBI accession for microbiome: ERP110592
+
+MassIVE ID for metabolome is MSV000084847, link: https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=0434de6d06f5424d8bd567808d069d4e
