@@ -1,0 +1,56 @@
+sample-id	cage_number	timepoint	zt	TP	hours	cycle	collection_timestamp	description	diet	experiment_duration	exposure_start	exposure_type	both	general_notes	genotype	host_age	host_age_units	host_scientific_name	host_subject_id	host_taxid	mouse_number	physical_specimen_location	qiita_study_id	scientific_name	sex	taxon_id	title	treatment
+A32_133_1B	A32	1	2	one	0	day	12/14/17 8:00	4-8 am collection mouse 133	HFD	6 days	10/9/17	Air	Air1		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A32_133_2B	A32	2	6	two	4	day	12/14/17 12:00	8 am-12 pm collection mouse 133	HFD	6 days	10/9/17	Air	Air2		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A32_133_3B	A32	3	10	three	8	day	12/14/17 16:00	12 pm-4 pm collection mouse 133	HFD	6 days	10/9/17	Air	Air3		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A32_133_4B	A32	4	14	four	12	night	12/14/17 20:00	4 pm-8 pm collection mouse 133	HFD	6 days	10/9/17	Air	Air4		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A32_133_5B	A32	5	18	five	16	night	12/15/17 0:00	8 pm-12 am collection mouse 133	HFD	6 days	10/9/17	Air	Air5		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A32_133_6B	A32	6	22	six	20	night	12/15/17 4:00	12 am-4 am collection mouse 133	HFD	6 days	10/9/17	Air	Air6		ApoE KO	10	weeks	Mus musculus	Mouse 133	10090	133	LBR freezer	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A24_125_1B	A24	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 125	HFD	6 days	10/8/13	IHC	IHC1		ApoE KO	10	weeks	Mus musculus	Mouse 125	10090	125	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A24_125_2B	A24	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 125	HFD	6 days	10/8/13	IHC	IHC2		ApoE KO	10	weeks	Mus musculus	Mouse 125	10090	125	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A24_125_4B	A24	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 125	HFD	6 days	10/8/13	IHC	IHC4		ApoE KO	10	weeks	Mus musculus	Mouse 125	10090	125	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A24_125_5B	A24	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 125	HFD	6 days	10/8/13	IHC	IHC5		ApoE KO	10	weeks	Mus musculus	Mouse 125	10090	125	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A24_125_6B	A24	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 125	HFD	6 days	10/8/13	IHC	IHC6		ApoE KO	10	weeks	Mus musculus	Mouse 125	10090	125	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_1B	A25	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 126	HFD	6 days	10/8/13	IHC	IHC1		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_2B	A25	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 126	HFD	6 days	10/8/13	IHC	IHC2		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_3B	A25	3	10	three	8	day	12/13/17 16:00	12 pm-4 pm collection mouse 126	HFD	6 days	10/8/13	IHC	IHC3		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_4B	A25	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 126	HFD	6 days	10/8/13	IHC	IHC4		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_5B	A25	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 126	HFD	6 days	10/8/13	IHC	IHC5		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A25_126_6B	A25	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 126	HFD	6 days	10/8/13	IHC	IHC6		ApoE KO	10	weeks	Mus musculus	Mouse 126	10090	126	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_1B	A26	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 127	HFD	6 days	10/8/13	IHC	IHC1		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_2B	A26	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 127	HFD	6 days	10/8/13	IHC	IHC2		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_3B	A26	3	10	three	8	day	12/13/17 16:00	12 pm-4 pm collection mouse 127	HFD	6 days	10/8/13	IHC	IHC3		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_4B	A26	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 127	HFD	6 days	10/8/13	IHC	IHC4		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_5B	A26	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 127	HFD	6 days	10/8/13	IHC	IHC5		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A26_127_6B	A26	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 127	HFD	6 days	10/8/13	IHC	IHC6		ApoE KO	10	weeks	Mus musculus	Mouse 127	10090	127	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_1B	A27	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 128	HFD	6 days	10/8/13	IHC	IHC1		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_2B	A27	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 128	HFD	6 days	10/8/13	IHC	IHC2		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_3B	A27	3	10	three	8	day	12/13/17 16:00	12 pm-4 pm collection mouse 128	HFD	6 days	10/8/13	IHC	IHC3		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_4B	A27	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 128	HFD	6 days	10/8/13	IHC	IHC4		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_5B	A27	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 128	HFD	6 days	10/8/13	IHC	IHC5		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A27_128_6B	A27	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 128	HFD	6 days	10/8/13	IHC	IHC6		ApoE KO	10	weeks	Mus musculus	Mouse 128	10090	128	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	In chamber
+A29_130_1B	A29	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 130	HFD	6 days	10/8/13	Air	Air1		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A29_130_2B	A29	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 130	HFD	6 days	10/8/13	Air	Air2		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A29_130_3B	A29	3	10	three	8	day	12/13/17 16:00	12 pm-4 pm collection mouse 130	HFD	6 days	10/8/13	Air	Air3		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A29_130_4B	A29	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 130	HFD	6 days	10/8/13	Air	Air4		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A29_130_5B	A29	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 130	HFD	6 days	10/8/13	Air	Air5		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A29_130_6B	A29	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 130	HFD	6 days	10/8/13	Air	Air6		ApoE KO	10	weeks	Mus musculus	Mouse 130	10090	130	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A30_131_1B	A30	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 131	HFD	6 days	10/8/13	Air	Air1		ApoE KO	10	weeks	Mus musculus	Mouse 131	10090	131	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A30_131_2B	A30	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 131	HFD	6 days	10/8/13	Air	Air2		ApoE KO	10	weeks	Mus musculus	Mouse 131	10090	131	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A30_131_4B	A30	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 131	HFD	6 days	10/8/13	Air	Air4		ApoE KO	10	weeks	Mus musculus	Mouse 131	10090	131	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A30_131_5B	A30	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 131	HFD	6 days	10/8/13	Air	Air5		ApoE KO	10	weeks	Mus musculus	Mouse 131	10090	131	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A30_131_6B	A30	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 131	HFD	6 days	10/8/13	Air	Air6		ApoE KO	10	weeks	Mus musculus	Mouse 131	10090	131	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_1B	A31	1	2	one	0	day	12/13/17 8:00	4-8 am collection mouse 132	HFD	6 days	10/8/13	Air	Air1		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_2B	A31	2	6	two	4	day	12/13/17 12:00	8 am-12 pm collection mouse 132	HFD	6 days	10/8/13	Air	Air2		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_3B	A31	3	10	three	8	day	12/13/17 16:00	12 pm-4 pm collection mouse 132	HFD	6 days	10/8/13	Air	Air3		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_4B	A31	4	14	four	12	night	12/13/17 20:00	4 pm-8 pm collection mouse 132	HFD	6 days	10/8/13	Air	Air4		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_5B	A31	5	18	five	16	night	12/14/17 0:00	8 pm-12 am collection mouse 132	HFD	6 days	10/8/13	Air	Air5		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+A31_132_6B	A31	6	22	six	20	night	12/14/17 4:00	12 am-4 am collection mouse 132	HFD	6 days	10/8/13	Air	Air6		ApoE KO	10	weeks	Mus musculus	Mouse 132	10090	132	UCSDMI	11548	mouse gut metagenome	male	410661	IHC CR	On shelf
+Blank_G1_1u		0	0		0																0							
+Blank_G1_1uL_180731201524		0	0		0																0							
+Blank_G1_1uL_180731212554		0	0		0																0							
+Blank_G1_1uL_180731223626		0	0		0																0							
+Blank_G1_1uL_180731234700		0	0		0																0							
+Blank_G1_1uL_180801004729		0	0		0																0							
+Blank_G1_1uL_180801015759		0	0		0																0							
+Blank_G1_5u		0	0		0																0							
+Blank_G1_5uL_180731180422		0	0		0																0							
