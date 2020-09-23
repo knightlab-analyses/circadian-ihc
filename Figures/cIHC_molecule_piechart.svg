@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="231.84pt" version="1.1" viewBox="0 0 323.441531 231.84" width="323.441531pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;white-space:pre;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 231.84 
+L 323.441531 231.84 
+L 323.441531 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 191.234818 28.944 
+C 190.415075 28.944 189.595373 28.955589 188.775957 28.978764 
+C 187.956542 29.001938 187.137495 29.036696 186.319062 29.083027 
+L 191.234818 115.92 
+L 191.234818 28.944 
+z
+" style="fill:#b8860b;stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 186.319062 29.083027 
+C 173.030627 29.835272 160.090483 33.627817 148.498303 40.167674 
+C 136.906123 46.707532 126.96831 55.82184 119.452597 66.806485 
+C 111.936884 77.791131 107.041926 90.355769 105.145876 103.529734 
+C 103.249826 116.7037 104.402801 130.13878 108.515728 142.797066 
+L 191.234818 115.92 
+L 186.319062 29.083027 
+z
+" style="fill:#ffd700;stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 108.515728 142.797066 
+C 111.732876 152.698427 116.701811 161.942195 123.185597 170.087592 
+C 129.669382 178.232989 137.563296 185.148457 146.490926 190.504239 
+L 191.234818 115.92 
+L 108.515728 142.797066 
+z
+" style="fill:#008000;stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 146.490926 190.504239 
+C 147.428207 191.066524 148.376003 191.611091 149.333811 192.13765 
+C 150.291619 192.664209 151.259267 193.172667 152.23624 193.662752 
+L 191.234818 115.92 
+L 146.490926 190.504239 
+z
+" style="fill:#b22222;stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 152.23624 193.662752 
+C 163.968105 199.54788 176.881358 202.701762 190.005265 202.887309 
+C 203.129173 203.072856 216.126427 200.2853 228.019978 194.73419 
+C 239.91353 189.183081 250.397693 181.011092 258.684336 170.83254 
+C 266.97098 160.653988 272.847123 148.730481 275.871034 135.95835 
+C 278.894946 123.186219 278.988907 109.89373 276.145853 97.080127 
+C 273.302799 84.266524 267.595802 72.261139 259.453877 61.966459 
+C 251.311952 51.671779 240.944362 43.352396 229.130473 37.633706 
+C 217.316585 31.915016 204.360036 28.944 191.234817 28.944 
+L 191.234818 115.92 
+L 152.23624 193.662752 
+z
+" style="fill:#808080;stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 188.530071, 23.903859)" x="188.530071" y="23.903859">phosphoethanolamines</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 189.26773, 49.98623)" x="189.26773" y="49.98623">0.9%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 112.274375, 65.514353)" x="112.274375" y="65.514353">phosphocholines</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 133.809041, 80.248407)" x="133.809041" y="80.248407">29.1%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 116.380674, 179.12357)" x="116.380674" y="179.12357">bile acids</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 136.795441, 162.873292)" x="136.795441" y="162.873292">11.4%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 145.14371, 203.296603)" x="145.14371" y="203.296603">acylcarnitines</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 157.714012, 180.513339)" x="157.714012" y="180.513339">1.2%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 284.334656, 141.581404)" x="284.334656" y="141.581404">other</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:Arial;font-size:14px;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 258.943791, 135.569899)" x="258.943791" y="135.569899">57.4%</text>
+   </g>
+  </g>
+ </g>
+</svg>
