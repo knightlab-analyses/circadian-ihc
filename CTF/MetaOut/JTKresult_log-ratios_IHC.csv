@@ -1,0 +1,7 @@
+"CycID","BH.Q","ADJ.P","PER","LAG","AMP"
+"log(Lachnospiraceae/Coriobacteriaceae)","1","1","24","22","0.314682472888486"
+"log(S24-7/Coriobacteriaceae)","1","1","20","0","0.574765258322108"
+"log(Ruminococcaceae/Coriobacteriaceae)","1","0.539683770719523","24","0","0.332606070267559"
+"log(Ruminococcaceae/Verrucomicrobiaceae)","0.0116175368571049","0.00193625614285082","24","6","0.755474035835994"
+"log(Coriobacteriaceae/Verrucomicrobiaceae)","1","0.539683770719523","24","6","0.438996995940429"
+"log(UCA/TbMCA)","1","1","20","10","0.695263383240417"
